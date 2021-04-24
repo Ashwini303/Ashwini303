@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini</h1>
 <h3 align="center">I'm a Developer who likes to Code</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 - 🔭 I’m currently working on **Javascript and Php**
@@ -7,8 +9,6 @@
 - 🌱 I’m currently learning **Bootstrap**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- <p align="left">     </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 📫 How to reach me **ashwinisatpute.303@gmail.com**
 
